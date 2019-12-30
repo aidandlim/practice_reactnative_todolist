@@ -1,10 +1,6 @@
-# M@tch@
+# React Native App
 
-> A responsive Single Page Application(SPA) using React & Node
-
-> A Social Network Service(SNS) for matching dating partner like Tinder
-
-> A web brunch project of bootcamp named <a href="https://www.42.us.org" target="_blank">`42 Silicon Valley`</a>
+***Not Yet***
 
 --- 
 
