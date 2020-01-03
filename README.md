@@ -1,4 +1,4 @@
-# ToDo App
+# [PRACTICE - React Natice] ToDo List Application
 
 ***Not Yet***
 
